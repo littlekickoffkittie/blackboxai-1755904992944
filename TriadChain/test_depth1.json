@@ -1,0 +1,160 @@
+{
+  "triangles": {
+    "820ce57a-e452-46c5-b544-274766b4bcfc": {
+      "id": "820ce57a-e452-46c5-b544-274766b4bcfc",
+      "triangle": {
+        "vertices": [
+          {
+            "x": "0",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "0.25",
+            "y": "0.144337567297406450"
+          },
+          {
+            "x": "-0.25",
+            "y": "0.144337567297406450"
+          }
+        ]
+      },
+      "state": "Void",
+      "address": {
+        "path": [
+          3
+        ]
+      },
+      "depth": 1,
+      "parent_id": "daa02582-65a8-4cb7-bb7f-57ad0f7caedf",
+      "child_ids": [],
+      "created_at": 1755877815,
+      "updated_at": 1755877815
+    },
+    "f7f73a18-e255-4cbe-8f0b-ce6f16bbdb90": {
+      "id": "f7f73a18-e255-4cbe-8f0b-ce6f16bbdb90",
+      "triangle": {
+        "vertices": [
+          {
+            "x": "-0.25",
+            "y": "0.144337567297406450"
+          },
+          {
+            "x": "0.25",
+            "y": "0.144337567297406450"
+          },
+          {
+            "x": "0",
+            "y": "0.5773502691896258"
+          }
+        ]
+      },
+      "state": "Active",
+      "address": {
+        "path": [
+          2
+        ]
+      },
+      "depth": 1,
+      "parent_id": "daa02582-65a8-4cb7-bb7f-57ad0f7caedf",
+      "child_ids": [],
+      "created_at": 1755877815,
+      "updated_at": 1755877815
+    },
+    "daa02582-65a8-4cb7-bb7f-57ad0f7caedf": {
+      "id": "daa02582-65a8-4cb7-bb7f-57ad0f7caedf",
+      "triangle": {
+        "vertices": [
+          {
+            "x": "-0.50",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "0.50",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "0",
+            "y": "0.5773502691896258"
+          }
+        ]
+      },
+      "state": "Subdivided",
+      "address": {
+        "path": []
+      },
+      "depth": 0,
+      "parent_id": null,
+      "child_ids": [
+        "d2c73ded-f678-4fe8-8a89-9eb436aeba84",
+        "cce3938c-f216-433e-9fe6-5e9ba4d0a3ed",
+        "f7f73a18-e255-4cbe-8f0b-ce6f16bbdb90",
+        "820ce57a-e452-46c5-b544-274766b4bcfc"
+      ],
+      "created_at": 1755877815,
+      "updated_at": 1755877815
+    },
+    "d2c73ded-f678-4fe8-8a89-9eb436aeba84": {
+      "id": "d2c73ded-f678-4fe8-8a89-9eb436aeba84",
+      "triangle": {
+        "vertices": [
+          {
+            "x": "-0.50",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "0",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "-0.25",
+            "y": "0.144337567297406450"
+          }
+        ]
+      },
+      "state": "Active",
+      "address": {
+        "path": [
+          0
+        ]
+      },
+      "depth": 1,
+      "parent_id": "daa02582-65a8-4cb7-bb7f-57ad0f7caedf",
+      "child_ids": [],
+      "created_at": 1755877815,
+      "updated_at": 1755877815
+    },
+    "cce3938c-f216-433e-9fe6-5e9ba4d0a3ed": {
+      "id": "cce3938c-f216-433e-9fe6-5e9ba4d0a3ed",
+      "triangle": {
+        "vertices": [
+          {
+            "x": "0",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "0.50",
+            "y": "-0.2886751345948129"
+          },
+          {
+            "x": "0.25",
+            "y": "0.144337567297406450"
+          }
+        ]
+      },
+      "state": "Active",
+      "address": {
+        "path": [
+          1
+        ]
+      },
+      "depth": 1,
+      "parent_id": "daa02582-65a8-4cb7-bb7f-57ad0f7caedf",
+      "child_ids": [],
+      "created_at": 1755877815,
+      "updated_at": 1755877815
+    }
+  },
+  "genesis_id": "daa02582-65a8-4cb7-bb7f-57ad0f7caedf",
+  "max_depth": 1,
+  "total_count": 5
+}
